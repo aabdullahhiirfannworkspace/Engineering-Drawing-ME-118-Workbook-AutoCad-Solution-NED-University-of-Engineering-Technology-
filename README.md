@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains AutoCAD solutions for the **Engineering Drawing (ME-118) Workbook** used at **NED University of Engineering & Technology**. It is intended as a study resource to help students understand engineering drawing concepts, practice AutoCAD drafting techniques, and compare their work with completed solutions.
+This repository contains AutoCAD solutions for the **Engineering Drawing (ME-118) Workbook** used at **NED University of Engineering & Technology in year 2025 Fall Semester**. It is intended as a study resource to help students understand engineering drawing concepts, practice AutoCAD drafting techniques, and compare their work with completed solutions.
 
 ## Contents
 
