@@ -17,6 +17,7 @@ The materials are provided for educational purposes only. Students are encourage
 ## Requirements
 
 * AutoCAD (or another compatible DWG viewer/editor)
+* Some files might not be able to display here, It is advised to download those files
 
 ## Disclaimer
 *Error and omissions excepted
